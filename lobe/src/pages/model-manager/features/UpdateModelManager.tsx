@@ -372,11 +372,10 @@ export default function UpdateModelManagerPage({
                     </Col>
                     <Col span={mobile ? 24 : 12}>
                         <Form.Item name="quotaMax" label={t('modelManager.modelMaxContext')}>
-                            <InputNumber 
-                                style={{ width: '100%' }} 
+                            <Input
+                                style={{ width: '100%' }}
                                 placeholder={t('modelManager.enterMaxContext')}
-                                min={0}
-                                step={512}
+                                allowClear
                             />
                         </Form.Item>
                     </Col>
