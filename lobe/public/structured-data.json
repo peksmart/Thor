@@ -15,10 +15,10 @@
     "name": "Thor AI",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://yourwebsite.com/logo.png"
+      "url": "https://www.aiboxed.net/logo.png"
     }
   },
-  "screenshot": "https://yourwebsite.com/images/screenshot.png",
+  "screenshot": "https://www.aiboxed.net/images/screenshot.png",
   "softwareVersion": "1.0",
   "aggregateRating": {
     "@type": "AggregateRating",
