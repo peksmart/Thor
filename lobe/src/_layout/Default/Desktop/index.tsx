@@ -87,7 +87,7 @@ export default function DesktopPage() {
                         }}
                         style={{ display: 'flex', alignItems: 'center', color: 'white', marginRight: 24 }}>
                         <ThunderboltOutlined style={{ color: '#faad14', fontSize: 24, marginRight: 8 }} />
-                        <span style={{ fontSize: 20, fontWeight: 'bold' }}>Thor 雷神托尔</span>
+                        <span style={{ fontSize: 20, fontWeight: 'bold' }}>AI Boxed</span>
                     </div>
                     {/* @ts-ignore */}
                     <div style={{ display: 'none', '@media (min-width: 768px)': { display: 'block' } }}>

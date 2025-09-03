@@ -15,7 +15,7 @@ export default function ThorHeader() {
     
     return (
         <Header
-            logo={<Logo extra={'Thor雷神托尔'} />}
+            logo={<Logo extra={'AI Boxed'} />}
             nav={
                 <TabsNav
                     activeKey={key}

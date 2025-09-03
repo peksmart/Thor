@@ -15,7 +15,7 @@ const FullscreenLoading = memo<{ title?: string }>(({ title }) => {
             userSelect: 'none',
             color: 'var(--leva-colors-highlight3)',
           }}>
-            Thor 雷神托尔
+            AI Boxed
           </span>
           <Center gap={16} horizontal>
             <Icon icon={Loader2} spin />

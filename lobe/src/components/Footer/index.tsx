@@ -40,7 +40,7 @@ export default function ThorFooter() {
                     <Col xs={24} md={12}>
                         <div style={{ display: 'flex', alignItems: 'center', color: 'white', marginBottom: 16 }}>
                             <ThunderboltOutlined style={{ color: '#faad14', fontSize: 24, marginRight: 8 }} />
-                            <span style={{ fontSize: 20, fontWeight: 'bold' }}>Thor 雷神托尔</span>
+                            <span style={{ fontSize: 20, fontWeight: 'bold' }}>AI Boxed</span>
                         </div>
                         <Paragraph style={{ color: '#8c8c8c' }}>
                             Thor是开源的免费并且可商用的开源项目。致力于为开发者提供高效、稳定的AI服务接口。兼容OpenAI API，支持多种模型，按量计费，价格透明。

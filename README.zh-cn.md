@@ -2,14 +2,14 @@
 
 <img height="160" src="https://github.com/AIDotNet/Thor/assets/61819790/a3eb7557-0ff4-4edd-a472-e5a0a745616d">
 
-# Thor(雷神托尔) - AI大模型管理网关
+# AI Boxed - AI大模型管理网关
 
 [![License](https://img.shields.io/github/license/AIDotNet/Thor)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/AIDotNet/Thor)](https://github.com/AIDotNet/Thor/stargazers)
 [![Issues](https://img.shields.io/github/issues/AIDotNet/Thor)](https://github.com/AIDotNet/Thor/issues)
 [![Docker](https://img.shields.io/docker/v/aidotnet/thor)](https://hub.docker.com/r/aidotnet/thor)
 
-**Thor(雷神托尔)** 是一款企业级AI大模型管理网关，提供统一的API接口来管理和调度多种AI大模型。支持OpenAI兼容格式，具备完善的用户管理、渠道管理、计费和监控功能。
+**AI Boxed** 是一款企业级AI大模型管理网关，提供统一的API接口来管理和调度多种AI大模型。支持OpenAI兼容格式，具备完善的用户管理、渠道管理、计费和监控功能。
 
 </div>
 

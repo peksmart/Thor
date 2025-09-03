@@ -319,7 +319,7 @@ const zhCN = {
 
     // 首页
     welcome: {
-      title: 'Thor 雷神托尔',
+      title: 'AI Boxed',
       subtitle: '使用标准的OpenAI接口协议访问多种模型',
       description: '使用标准的OpenAI接口协议访问68+模型，不限时间、按量计费、拒绝逆向、极速对话、明细透明，无隐藏消费。',
       tagline: '为您提供最好的AI服务！',
@@ -327,7 +327,7 @@ const zhCN = {
       giveStar: '给项目 Star',
       features: {
         title: '我们的优势',
-        description: 'Thor雷神托尔为开发者提供一站式AI模型调用服务，简化您的AI应用开发流程',
+        description: 'AI Boxed为开发者提供一站式AI模型调用服务，简化您的AI应用开发流程',
         multiModel: {
           title: '多模型支持',
           description: '支持200+模型，包括主流的大型语言模型和专业领域模型，满足各种AI应用场景。',
@@ -375,7 +375,7 @@ const zhCN = {
         rankingDesc: '最受欢迎的AI模型排名'
       },
       callToAction: {
-        title: '准备好开始使用Thor雷神托尔了吗？',
+        title: '准备好开始使用AI Boxed了吗？',
         description: '立即注册并获取免费额度，开始您的AI开发之旅',
         register: '免费注册账号',
         docs: '查看开发文档'

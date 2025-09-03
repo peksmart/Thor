@@ -112,7 +112,7 @@ public partial class UserService(
         // 增加缓存标识放置频繁发送
         await memoryCache.CreateAsync("email-" + email + "-send", "1", TimeSpan.FromMinutes(1));
 
-        await emailService.SendEmailAsync(email, "注册账号验证码", $"欢迎您注册Thor（雷神托尔），您的验证码是：{code}").ConfigureAwait(false);
+        await emailService.SendEmailAsync(email, "注册账号验证码", $"欢迎您注册AI Boxed，您的验证码是：{code}").ConfigureAwait(false);
     }
 
     public async Task<User?> GetCacheAsync()
